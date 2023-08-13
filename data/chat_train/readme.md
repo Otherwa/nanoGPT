@@ -1,7 +1,6 @@
 # clean the data from whats_app
 
 ```
-
 $ python data/shakespeare_char/prepare.py
 ```
 
